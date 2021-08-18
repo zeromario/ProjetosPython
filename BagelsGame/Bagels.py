@@ -11,7 +11,7 @@ MAX_GUESSES = 10   # (!) Try setting this to 1 or 100
 def main():
     print('''Bagels, a deductive logic game.
 
- I am thinking of a {}-digit number with no repeated digits.
+ I am thinking of a {} digit number with no repeated digits.
  Try to guess what it is. Here are some clues:
  When I say: That means:
     Pico One digit is correct but in the wrong position.
